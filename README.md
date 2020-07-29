@@ -1,4 +1,4 @@
-![Badge](https://dev.azure.com/gat7860251/space%20game%20-%20web%20-%20workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)
+[![Build Status](https://dev.azure.com/gat7860251/space%20game%20-%20web%20-%20tests/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)]
 ---
 
 # Contributing
